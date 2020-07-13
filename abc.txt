@@ -6,4 +6,4 @@ git push
 
 git status
 
-git pull
+git stash
